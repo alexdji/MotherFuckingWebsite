@@ -1,0 +1,43 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    font-size: 20px;
+    color: #605865
+}
+
+header {
+	text-align: center;
+	font-style: bold;
+	padding: 20px;
+	font-size: 30px;
+}
+
+aside {
+	background-color: red;
+	color: yellow;
+	padding: 20px;
+
+}
+
+h1, h2, h3 {
+	font-style: italic;
+	font-style: unset;
+	font-size: 30px;
+}
+
+p {
+	font-size: 14px;
+}
+
+ul {
+	font-size: 14px;
+}
+
+blockquote {
+	text-align: center;
+	font-size: 25px;
+}
+
+li {
+
+
+}
